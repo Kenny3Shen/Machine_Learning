@@ -1,0 +1,5 @@
+joblib
+bs4
+pandas
+jieba
+scikit-learn
